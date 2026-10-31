@@ -5,15 +5,15 @@
 # 📫 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ankittripathidevs" target="_blank">
+  <a href="https://www.linkedin.com/in/ankittripathidev" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a>&nbsp;&nbsp;
-     <a href="https://github.com/ankittripathidevs" target="_blank">
+     <a href="https://github.com/ankittripathidev" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" /></a>&nbsp;&nbsp;
     <a href="mailto:ankittripathi.dev@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" /></a>&nbsp;&nbsp;
   <a href="https://x.com/ankittripathe" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" /></a>&nbsp;&nbsp;
-  <a href="https://instagram.com/ankit_tripathee" target="_blank">
+  <a href="https://instagram.com/ankittripathidev" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" />
   </a>
 </p>

@@ -63,8 +63,8 @@
 
 # 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ankittripathidevs&theme=blueberry&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ankittripathidev&theme=blueberry&hide_border=true)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ankittripathidevs&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ankittripathidev&icon=0&color=0)](https://visitcount.itsvg.in)
